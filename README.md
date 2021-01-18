@@ -6,7 +6,7 @@
   
 ## 動画
 実際に使用している動画です。  
-https://youtu.be/9eTYkHwrX5k  
+https://youtu.be/iSXFh4rXUHc  
   
 ## 必要なもの
 Raspberry Pi 4B (Ubuntu 20.04 LTS)  
