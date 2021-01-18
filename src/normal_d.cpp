@@ -1,3 +1,10 @@
+/*
+/	GPL-Ver3.0 License
+/
+/	Copyright (c) 2021, Souma Yamabe.
+/	All rights reserved.
+*/
+
 #include "ros/ros.h"
 #include "dice/ndn.h"
 
